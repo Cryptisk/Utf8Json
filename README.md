@@ -6,7 +6,7 @@ Utf8Json - Fast JSON Serializer for C#
 You can find these packages in NuGet under `Cryptisk.Utf8Json`
 
 ![.NET Core](https://github.com/Cryptisk/Utf8Json/workflows/.NET%20Core/badge.svg) [![Join the chat at https://gitter.im/neuecc/Utf8Json](https://badges.gitter.im/neuecc/Utf8Json.svg)](https://gitter.im/neuecc/Utf8Json?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
- [![Releases](https://img.shields.io/github/release/neuecc/Utf8Json.svg)](https://github.com/neuecc/Utf8Json/releases)
+ [![Releases](https://img.shields.io/github/release/Cryptisk/Utf8Json.svg)](https://github.com/Cryptisk/Utf8Json/releases)
 
 Definitely Fastest and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance. And I adopt the same architecture as the fastest binary serializer, [MessagePack for C#](https://github.com/neuecc/MessagePack-CSharp) that I've developed.
 
